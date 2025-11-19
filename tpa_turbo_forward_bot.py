@@ -5,22 +5,16 @@ from telegram import Update
 from logging.handlers import RotatingFileHandler
 from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
 
-# ================================
-# BOT TOKEN from Environment (Fly.io Secrets)
-# ================================
+# BOT TOKEN from Environment
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 
 if not BOT_TOKEN:
     raise ValueError("❌ BOT_TOKEN is missing.")
 
-# ================================
 # Source Channel (TPA Main Group)
-# ================================
 SOURCE_CHANNEL_ID = -1002595754142
 
-# ================================
 # 10 Target Channels
-# ================================
 TARGET_CHANNEL_IDS = [
     -1002662372702,
     -1002544806787,
@@ -35,14 +29,10 @@ TARGET_CHANNEL_IDS = [
     -1002033860396,
 ]
 
-# ================================
 # 防重复
-# ================================
 processed_messages = set()
 
-# ================================
 # Logging
-# ================================
 os.makedirs("logs", exist_ok=True)
 
 log_handler = RotatingFileHandler(
@@ -62,9 +52,7 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
-# ================================
 # Auto Retry Forward (forward_message)
-# ================================
 async def try_forward(bot, target, source, msg_id, max_retry=3):
     for attempt in range(1, max_retry + 1):
         try:
@@ -83,9 +71,7 @@ async def try_forward(bot, target, source, msg_id, max_retry=3):
 
     return False
 
-# ================================
 # Main Forward Logic
-# ================================
 async def turbo_forward(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     if update.channel_post and update.channel_post.chat_id == SOURCE_CHANNEL_ID:
@@ -102,9 +88,7 @@ async def turbo_forward(update: Update, context: ContextTypes.DEFAULT_TYPE):
         for target in TARGET_CHANNEL_IDS:
             await try_forward(context.bot, target, SOURCE_CHANNEL_ID, msg_id)
 
-# ================================
 # Fly.io Safe Start (no asyncio.run)
-# ================================
 def main():
     app = ApplicationBuilder().token(BOT_TOKEN).build()
 

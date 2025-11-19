@@ -1,5 +1,5 @@
 # fly.toml — optimized for Telegram Forwarder Bot
-app = "tpa-turbo-forwarder"
+app = "tpa-turbo-forwarder-bot"
 primary_region = "sin"
 
 [env]
@@ -7,7 +7,7 @@ primary_region = "sin"
 
 # The main worker process running your bot
 [processes]
-  app = "python tpa_turbo_forward.py"
+  app = "python tpa_turbo_forward_bot.py"
 
 [deploy]
   strategy = "immediate"
