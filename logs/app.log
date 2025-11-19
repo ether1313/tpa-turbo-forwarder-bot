@@ -1,0 +1,416 @@
+2025-11-18 12:01:39,023 — INFO — [SYSTEM] TPA Turbo Forwarder is running. Listening for @tpaaustralia...
+2025-11-18 12:07:25,438 — INFO — [SYSTEM] TPA Turbo Forwarder is running. Listening for @tpaaustralia...
+2025-11-18 12:07:26,014 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getMe "HTTP/1.1 200 OK"
+2025-11-18 12:07:26,191 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/deleteWebhook "HTTP/1.1 200 OK"
+2025-11-18 12:07:26,192 — INFO — Application started
+2025-11-18 12:07:26,980 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:07:37,159 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:07:47,348 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:07:57,557 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:08:07,739 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:08:17,952 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:08:28,140 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:08:38,356 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:08:48,548 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:08:58,858 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:09:09,036 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:09:19,210 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:09:29,393 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:09:39,577 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:09:49,763 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:09:59,948 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:10:10,126 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:10:20,353 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:10:30,532 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:10:40,860 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:10:51,045 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:11:01,232 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:11:11,422 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:11:21,614 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:11:31,799 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:11:41,981 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:11:52,167 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:12:00,519 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:12:00,521 — INFO — Application is stopping. This might take a moment.
+2025-11-18 12:12:00,522 — INFO — Application.stop() complete
+2025-11-18 12:21:39,797 — INFO — [SYSTEM] TPA Turbo Forwarder is running. Listening for @tpaaustralia...
+2025-11-18 12:21:40,375 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getMe "HTTP/1.1 200 OK"
+2025-11-18 12:21:40,549 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/deleteWebhook "HTTP/1.1 200 OK"
+2025-11-18 12:21:40,550 — INFO — Application started
+2025-11-18 12:21:51,084 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:21:57,240 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-18 12:21:57,242 — INFO — Application is stopping. This might take a moment.
+2025-11-18 12:21:57,243 — INFO — Application.stop() complete
+2025-11-19 10:48:55,951 — INFO — [SYSTEM] TPA Turbo Forwarder is running. Listening for @tpaaustralia...
+2025-11-19 10:48:56,515 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getMe "HTTP/1.1 200 OK"
+2025-11-19 10:48:56,694 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/deleteWebhook "HTTP/1.1 200 OK"
+2025-11-19 10:48:56,696 — INFO — Application started
+2025-11-19 10:48:57,440 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:48:57,848 — INFO — [INFO] New TPA message detected (msg_id=33191), forwarding...
+2025-11-19 10:48:58,019 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:48:58,019 — ERROR — [ERROR] Attempt 1/3 failed for -1002662372702: Message to copy not found
+2025-11-19 10:49:00,200 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:00,201 — ERROR — [ERROR] Attempt 2/3 failed for -1002662372702: Message to copy not found
+2025-11-19 10:49:02,378 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:02,379 — ERROR — [ERROR] Attempt 3/3 failed for -1002662372702: Message to copy not found
+2025-11-19 10:49:02,553 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:02,554 — ERROR — [ERROR] Attempt 1/3 failed for -1002544806787: Message to copy not found
+2025-11-19 10:49:04,735 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:04,737 — ERROR — [ERROR] Attempt 2/3 failed for -1002544806787: Message to copy not found
+2025-11-19 10:49:06,915 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:06,917 — ERROR — [ERROR] Attempt 3/3 failed for -1002544806787: Message to copy not found
+2025-11-19 10:49:07,101 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:07,105 — ERROR — [ERROR] Attempt 1/3 failed for -1002482016247: Message to copy not found
+2025-11-19 10:49:08,034 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:49:09,283 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:09,284 — ERROR — [ERROR] Attempt 2/3 failed for -1002482016247: Message to copy not found
+2025-11-19 10:49:11,463 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:11,465 — ERROR — [ERROR] Attempt 3/3 failed for -1002482016247: Message to copy not found
+2025-11-19 10:49:11,641 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:11,642 — ERROR — [ERROR] Attempt 1/3 failed for -1002194080801: Message to copy not found
+2025-11-19 10:49:13,829 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:13,830 — ERROR — [ERROR] Attempt 2/3 failed for -1002194080801: Message to copy not found
+2025-11-19 10:49:16,017 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:16,019 — ERROR — [ERROR] Attempt 3/3 failed for -1002194080801: Message to copy not found
+2025-11-19 10:49:16,194 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:16,196 — ERROR — [ERROR] Attempt 1/3 failed for -1002254333982: Message to copy not found
+2025-11-19 10:49:18,228 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:49:18,373 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:18,374 — ERROR — [ERROR] Attempt 2/3 failed for -1002254333982: Message to copy not found
+2025-11-19 10:49:20,551 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:20,552 — ERROR — [ERROR] Attempt 3/3 failed for -1002254333982: Message to copy not found
+2025-11-19 10:49:20,728 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:20,730 — ERROR — [ERROR] Attempt 1/3 failed for -1002942441427: Message to copy not found
+2025-11-19 10:49:22,910 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:22,912 — ERROR — [ERROR] Attempt 2/3 failed for -1002942441427: Message to copy not found
+2025-11-19 10:49:25,086 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:25,087 — ERROR — [ERROR] Attempt 3/3 failed for -1002942441427: Message to copy not found
+2025-11-19 10:49:25,262 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:25,264 — ERROR — [ERROR] Attempt 1/3 failed for -1002444944113: Message to copy not found
+2025-11-19 10:49:27,441 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:27,443 — ERROR — [ERROR] Attempt 2/3 failed for -1002444944113: Message to copy not found
+2025-11-19 10:49:28,420 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:49:29,620 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:29,621 — ERROR — [ERROR] Attempt 3/3 failed for -1002444944113: Message to copy not found
+2025-11-19 10:49:29,795 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:29,796 — ERROR — [ERROR] Attempt 1/3 failed for -1002748481631: Message to copy not found
+2025-11-19 10:49:31,984 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:31,986 — ERROR — [ERROR] Attempt 2/3 failed for -1002748481631: Message to copy not found
+2025-11-19 10:49:34,184 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:34,186 — ERROR — [ERROR] Attempt 3/3 failed for -1002748481631: Message to copy not found
+2025-11-19 10:49:34,362 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:34,363 — ERROR — [ERROR] Attempt 1/3 failed for -1002226126447: Message to copy not found
+2025-11-19 10:49:36,544 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:36,546 — ERROR — [ERROR] Attempt 2/3 failed for -1002226126447: Message to copy not found
+2025-11-19 10:49:38,609 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:49:38,728 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:38,729 — ERROR — [ERROR] Attempt 3/3 failed for -1002226126447: Message to copy not found
+2025-11-19 10:49:38,903 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:38,904 — ERROR — [ERROR] Attempt 1/3 failed for -1002284018291: Message to copy not found
+2025-11-19 10:49:41,089 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:41,091 — ERROR — [ERROR] Attempt 2/3 failed for -1002284018291: Message to copy not found
+2025-11-19 10:49:43,267 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:43,268 — ERROR — [ERROR] Attempt 3/3 failed for -1002284018291: Message to copy not found
+2025-11-19 10:49:43,273 — INFO — [INFO] New TPA message detected (msg_id=33192), forwarding...
+2025-11-19 10:49:43,450 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:43,452 — ERROR — [ERROR] Attempt 1/3 failed for -1002662372702: Message to copy not found
+2025-11-19 10:49:45,632 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:45,633 — ERROR — [ERROR] Attempt 2/3 failed for -1002662372702: Message to copy not found
+2025-11-19 10:49:47,089 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:49:47,091 — INFO — Application is stopping. This might take a moment.
+2025-11-19 10:49:47,814 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:47,816 — ERROR — [ERROR] Attempt 3/3 failed for -1002662372702: Message to copy not found
+2025-11-19 10:49:47,994 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 400 Bad Request"
+2025-11-19 10:49:47,996 — ERROR — [ERROR] Attempt 1/3 failed for -1002544806787: Message to copy not found
+2025-11-19 10:50:59,065 — INFO — [SYSTEM] TPA Turbo Forwarder is running. Listening for @tpaaustralia...
+2025-11-19 10:50:59,620 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getMe "HTTP/1.1 200 OK"
+2025-11-19 10:50:59,796 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/deleteWebhook "HTTP/1.1 200 OK"
+2025-11-19 10:50:59,797 — INFO — Application started
+2025-11-19 10:51:10,361 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:51:20,563 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:51:30,759 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:51:40,957 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:51:51,149 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:52:01,340 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:52:11,533 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:52:21,764 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:52:31,955 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:52:42,150 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:52:52,340 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:53:02,530 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:53:12,721 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:53:22,912 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:53:33,106 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:53:43,380 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:53:53,571 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:54:03,767 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:54:14,000 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:54:24,201 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:54:34,395 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:54:44,588 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:54:54,783 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:55:04,975 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:55:15,239 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:55:25,449 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:55:35,639 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:55:45,830 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:55:56,096 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:56:06,292 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:56:16,482 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:56:26,673 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:56:36,878 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:56:47,073 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:56:57,333 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:57:07,525 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:57:17,717 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:57:27,910 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:57:38,109 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:57:48,306 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:57:58,504 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:58:08,703 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:58:18,892 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:58:29,086 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:58:39,282 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:58:49,475 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:58:59,707 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:59:09,946 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:59:20,135 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:59:30,325 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:59:40,519 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 10:59:50,711 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:00:00,902 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:00:11,091 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:00:21,307 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:00:31,500 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:00:41,695 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:00:51,888 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:01:02,080 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:01:12,277 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:01:22,481 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:01:32,675 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:01:42,874 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:01:53,081 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:02:03,282 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:02:13,483 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:02:23,713 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:02:33,917 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:02:44,161 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:02:54,356 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:03:04,552 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:03:14,750 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:03:24,953 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:03:35,168 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:03:45,371 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:03:55,564 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:04:05,760 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:04:16,027 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:04:26,227 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:04:36,428 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:04:46,619 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:04:56,812 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:05:07,001 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:05:17,196 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:05:27,392 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:05:37,585 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:05:47,782 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:05:57,974 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:06:08,265 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:06:18,455 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:06:28,647 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:06:38,839 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:06:49,031 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:06:59,258 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:07:09,500 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:07:19,708 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:07:29,905 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:07:40,099 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:07:50,356 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:08:00,563 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:08:11,154 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:08:21,402 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:08:31,592 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:08:41,872 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:08:52,066 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:09:02,256 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:09:12,447 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:09:22,728 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:09:32,917 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:09:43,108 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:09:53,314 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:10:03,583 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:10:13,776 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:10:24,004 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:10:34,192 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:10:44,381 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:10:54,568 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:11:04,765 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:11:13,613 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:11:13,624 — INFO — [INFO] New TPA message detected (msg_id=33194), forwarding...
+2025-11-19 11:11:14,474 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 200 OK"
+2025-11-19 11:11:14,475 — INFO — [SUCCESS] Forwarded to -1002662372702
+2025-11-19 11:11:15,037 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 200 OK"
+2025-11-19 11:11:15,038 — INFO — [SUCCESS] Forwarded to -1002544806787
+2025-11-19 11:11:15,494 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 200 OK"
+2025-11-19 11:11:15,495 — INFO — [SUCCESS] Forwarded to -1002482016247
+2025-11-19 11:11:15,997 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 200 OK"
+2025-11-19 11:11:15,999 — INFO — [SUCCESS] Forwarded to -1002194080801
+2025-11-19 11:11:16,454 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 200 OK"
+2025-11-19 11:11:16,455 — INFO — [SUCCESS] Forwarded to -1002254333982
+2025-11-19 11:11:16,971 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 200 OK"
+2025-11-19 11:11:16,971 — INFO — [SUCCESS] Forwarded to -1002942441427
+2025-11-19 11:11:17,447 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 200 OK"
+2025-11-19 11:11:17,448 — INFO — [SUCCESS] Forwarded to -1002444944113
+2025-11-19 11:11:17,969 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 200 OK"
+2025-11-19 11:11:17,970 — INFO — [SUCCESS] Forwarded to -1002748481631
+2025-11-19 11:11:18,451 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 200 OK"
+2025-11-19 11:11:18,455 — INFO — [SUCCESS] Forwarded to -1002226126447
+2025-11-19 11:11:18,936 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/copyMessage "HTTP/1.1 200 OK"
+2025-11-19 11:11:18,937 — INFO — [SUCCESS] Forwarded to -1002284018291
+2025-11-19 11:11:23,810 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:11:34,008 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:11:44,211 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:11:54,400 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:12:04,585 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:12:14,775 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:12:24,969 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:12:35,161 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:12:45,360 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:12:55,556 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:13:05,754 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:13:15,957 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:13:26,153 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:13:36,381 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:13:46,570 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:13:56,769 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:14:06,957 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:14:17,153 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:14:27,350 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:14:37,547 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:14:47,737 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:14:57,924 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:15:08,109 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:15:18,304 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:15:28,502 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:15:38,687 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:15:48,883 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:15:59,079 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:16:09,375 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:16:19,572 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:16:29,764 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:16:39,956 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:16:50,160 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:17:00,473 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:17:10,661 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:17:20,855 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:17:31,053 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:17:41,253 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:17:51,468 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:17:57,584 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:17:57,585 — INFO — Application is stopping. This might take a moment.
+2025-11-19 11:17:57,586 — INFO — Application.stop() complete
+2025-11-19 11:18:04,549 — INFO — [SYSTEM] TPA Turbo Forwarder is running. Listening for @tpaaustralia...
+2025-11-19 11:18:05,103 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getMe "HTTP/1.1 200 OK"
+2025-11-19 11:18:05,285 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/deleteWebhook "HTTP/1.1 200 OK"
+2025-11-19 11:18:05,286 — INFO — Application started
+2025-11-19 11:18:15,844 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:18:26,050 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:18:36,249 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:18:46,432 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:18:56,615 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:19:06,802 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:19:16,993 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:19:27,187 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:19:31,954 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:19:31,961 — INFO — [INFO] New message detected (msg_id=33195), forwarding...
+2025-11-19 11:19:32,823 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/forwardMessage "HTTP/1.1 200 OK"
+2025-11-19 11:19:32,827 — INFO — [SUCCESS] Forwarded to -1002662372702
+2025-11-19 11:19:33,279 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/forwardMessage "HTTP/1.1 200 OK"
+2025-11-19 11:19:33,280 — INFO — [SUCCESS] Forwarded to -1002544806787
+2025-11-19 11:19:33,779 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/forwardMessage "HTTP/1.1 200 OK"
+2025-11-19 11:19:33,783 — INFO — [SUCCESS] Forwarded to -1002482016247
+2025-11-19 11:19:34,379 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/forwardMessage "HTTP/1.1 200 OK"
+2025-11-19 11:19:34,384 — INFO — [SUCCESS] Forwarded to -1002194080801
+2025-11-19 11:19:34,912 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/forwardMessage "HTTP/1.1 200 OK"
+2025-11-19 11:19:34,916 — INFO — [SUCCESS] Forwarded to -1002254333982
+2025-11-19 11:19:35,454 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/forwardMessage "HTTP/1.1 200 OK"
+2025-11-19 11:19:35,457 — INFO — [SUCCESS] Forwarded to -1002942441427
+2025-11-19 11:19:36,084 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/forwardMessage "HTTP/1.1 200 OK"
+2025-11-19 11:19:36,087 — INFO — [SUCCESS] Forwarded to -1002444944113
+2025-11-19 11:19:36,548 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/forwardMessage "HTTP/1.1 200 OK"
+2025-11-19 11:19:36,554 — INFO — [SUCCESS] Forwarded to -1002748481631
+2025-11-19 11:19:37,071 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/forwardMessage "HTTP/1.1 200 OK"
+2025-11-19 11:19:37,075 — INFO — [SUCCESS] Forwarded to -1002226126447
+2025-11-19 11:19:37,580 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/forwardMessage "HTTP/1.1 200 OK"
+2025-11-19 11:19:37,583 — INFO — [SUCCESS] Forwarded to -1002284018291
+2025-11-19 11:19:42,148 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:19:52,340 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:20:02,619 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:20:12,820 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:20:23,029 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:20:33,231 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:20:43,417 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:20:53,600 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:21:03,790 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:21:13,986 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:21:24,182 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:21:27,551 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:21:37,740 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:21:47,930 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:21:58,120 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:22:08,303 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:22:18,484 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:22:28,675 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:22:38,863 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:22:49,048 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:22:59,239 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:23:09,425 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:23:19,608 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:23:29,803 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:23:40,065 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:23:50,254 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:23:52,572 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:23:59,171 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 409 Conflict"
+2025-11-19 11:23:59,175 — ERROR — Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-19 11:23:59,176 — ERROR — No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/telegram/ext/_updater.py", line 755, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/telegram/ext/_updater.py", line 749, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/telegram/ext/_updater.py", line 389, in polling_action_cb
+    raise exc
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/telegram/ext/_updater.py", line 378, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/telegram/_bot.py", line 4326, in get_updates
+    await self._post(
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/telegram/_bot.py", line 618, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 353, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/telegram/_bot.py", line 647, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 200, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 383, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-19 11:24:10,389 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:24:20,581 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:24:30,770 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:24:40,969 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:24:51,188 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:25:01,375 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:25:11,557 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:25:18,173 — INFO — HTTP Request: POST https://api.telegram.org/bot8451147108:AAG8TRY1NodP0k5uvy6WYYlyU1nNf4ZnHcU/getUpdates "HTTP/1.1 200 OK"
+2025-11-19 11:25:18,177 — INFO — Application is stopping. This might take a moment.
+2025-11-19 11:25:18,178 — INFO — Application.stop() complete
