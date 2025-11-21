@@ -1,20 +1,15 @@
-# fly.toml — optimized for Telegram Forwarder Bot
 app = "tpa-turbo-forwarder-bot"
 primary_region = "sin"
 
 [env]
   PYTHONUNBUFFERED = "1"
 
-# The main worker process running your bot
 [processes]
   app = "python tpa_turbo_forward_bot.py"
 
 [deploy]
   strategy = "immediate"
   max_machines_running = 1
-
-# Worker application — NO http_service needed
-# Telegram bots do NOT require any incoming port
 
 [[vm]]
   memory = "512mb"

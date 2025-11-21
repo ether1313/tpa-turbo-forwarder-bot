@@ -12,21 +12,21 @@ if not BOT_TOKEN:
     raise ValueError("❌ BOT_TOKEN is missing.")
 
 # Source Channel (TPA Main Group)
-SOURCE_CHANNEL_ID = -1002595754142
+SOURCE_CHANNEL_ID = -1002595754142 #@tpaaustralia; 🇦🇺Trusted Pokies Australia🇦🇺 
 
 # 10 Target Channels
 TARGET_CHANNEL_IDS = [
-    -1002662372702,
-    -1002544806787,
-    -1002482016247,
-    -1002194080801,
-    -1002254333982,
-    -1002942441427,
-    -1002444944113,
-    -1002748481631,
-    -1002226126447,
-    -1002284018291,
-    -1002033860396,
+    -1002662372702, #@rainbow13aus; 🇦🇺Australia Online Casino🇦🇺 
+    -1002544806787, #@lvspin13aus; 🇦🇺 Online Gaming 🇦🇺
+    -1002482016247, #@mario9aus; 🇦🇺BNG Australia Hot Game🇦🇺
+    -1002194080801, #@jackpotaus; 🇦🇺 Australia Jackpot Online Casino🇦🇺
+    -1002254333982, #@ZOMBIES9au; 🇦🇺Australia Jackpot Bonus🇦🇺
+    -1002942441427, #@winpokies88; 🇦🇺Win Pokies AUstralia🇦🇺
+    -1002444944113, #@plants9aus; 🇦🇺Pokies Australia Online Casino🇦🇺
+    -1002748481631, #@rainbow1338; 🇦🇺Free Bonus 🇦🇺
+    -1002226126447, #@Australiahotbng; 🇦🇺Sex Sex Girl Girl🇦🇺
+    -1002284018291, #@hotgamtips; 🔞Sex Girl Australia 🔞
+    -1002033860396, #@BK9Aus; 🇻🇬BK9 Australia Online Casino🇰🇾
 ]
 
 # 防重复
